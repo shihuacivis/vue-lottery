@@ -44,3 +44,12 @@ body {
   height: 3rem;
   font-size: 3rem;
 }
+
+.page-wrap .round {
+  line-height: 1rem;
+  font-size: 0.26rem;
+  text-align: center;
+  margin: 0.5rem auto;
+  color: #cccccc;
+  margin-top: 0.2rem;
+}
