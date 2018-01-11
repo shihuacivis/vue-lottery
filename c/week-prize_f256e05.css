@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+/* ==========================================================
+ * v20170619
+ * ==========================================================
+ * Copyright shihua
+ *
+ * 生活一直播抽奖统计样式
+ * ========================================================== */
+
+@font-face {
+  font-family: myFirstFont;
+  src: url("../res/DINPro-Medium_c7d7611.ttf");
+}
+
+html,
+body {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background: #fff6ea;
+}
+
+.page-wrap {
+  width: 100%;
+  height: 100%;
+}
+
+.page-wrap .btn-start {
+  width: 4rem;
+  height: 1rem;
+  line-height: 1rem;
+  font-size: 0.26rem;
+  text-align: center;
+  margin: 0.5rem auto;
+  color: #000000;
+  border: 0.01rem solid #818181;
+}
+
+.page-wrap p {
+  text-align: center;
+  margin-top: 1rem;
+  line-height: 3rem;
+  height: 3rem;
+  font-size: 3rem;
+}
